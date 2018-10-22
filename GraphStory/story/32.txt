@@ -1,0 +1,9 @@
+1;
+Elle ne se retourne pas, elle me regarde droit dans les yeux mais je sens que l'instinct prend le dessus sur la
+ panique... et elle utilise son pouvoir en enfumant les deux bandits qui s'approchent. On reprend notre fuite...
+ mais j'aurais bien aime qu'elle pense d'elle meme a utiliser son pouvoir...;
+2;
+33 - "Tu veux qu'on aille de quel cote ?";
+34 - "Allez, on va a droite !";
+33;
+34;

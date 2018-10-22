@@ -1,0 +1,8 @@
+1;
+"Oui !" dit-elle en me lancant le sac. Je le laisse tomber devant mes pieds et je ne fais rien.
+ Elle s'arrete dans sa course, vexee et me regarde. Tu veux que je lui reponde quoi ?;
+2;
+5 - "Ta mission, ton sac. Tu le gardes.";
+6 - "T'es quand meme pas aussi faible que ca, tu es capable de porter ton sac !";
+5;
+6;

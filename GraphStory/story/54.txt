@@ -1,0 +1,5 @@
+1;
+"Tu parles, t'as rien fait ! C'est moi la meilleure.";
+1;
+55 - "J'avoue. Tu es la meilleure";
+55;

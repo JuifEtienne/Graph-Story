@@ -1,0 +1,11 @@
+1;
+Vous qui vivez cette histoire, vous devez surement vous poser quelques questions : pourquoi ce sac ? Qu'est-ce que
+ Skells ? Pourquoi je suis quelqu'un d'incroyable ? Eh bien je vais vous donner quelques reponses. Tout d'abord le sac :
+ c'est simplement un contrat que l'on a en cours. Vous savez, c'est les petites missions que des vieux barbus aiment
+ confier à de jeunes aventuriers au coin du feu d'une taverne. C'est le genre typique de mission pour commencer une
+ partie de jeu de role ou une histoire dont vous êtes le heros... En ce qui concerne Skells, il faut bien que la
+ fameuse taverne se trouve quelque part ! Skells est la principale ville maritime du pays de Valas et il y a toujours
+ des missions pour les Hunter la-bas. Et voila, vous avez quasiment toutes vos reponses, ahah.;
+1;
+10 - "Bon, Climb, tu te souviens ou nous attend notre commanditaire ?";
+10;

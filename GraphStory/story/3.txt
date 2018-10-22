@@ -1,0 +1,15 @@
+1;
+Et notre avenir, c'est elle. Elle s'appelle Elise Climb et si vous ne l'avez pas devine, la fumee... c'est elle !
+ C'est justement une Hunter. Toute la societe humaine a ete construite sur cette nouvelle race, si on peut l'appeler
+ comme ça. Aujourd'hui, les Hunter sont surtout des agents qui doivent se servir de leurs pouvoirs pour le bien de tous.
+ Apres... chacun choisit les missions qu'il veut, ahah ! Avec Elise on travaille depuis quelques mois ensemble,
+ on s'occupe plutot des missions d'infiltrations vu l'avantage qu'apporte son pouvoir. Apres... C'est une battante,
+ elle aime aussi se jeter dans le tas quelques fois ! Notre boulot, ca va etre de la conseiller pour qu'elle ne
+ s'egare pas...
+ Climb s'approche en courant de moi et me crie "Arrete d'etre dans les nuages, faut qu'on se depeche de rentrer !"
+ Qu'est-ce qu'on lui dit ?;
+2;
+4 - "Mission accomplie ?";
+5 - "Tu as encore pris ton temps, hein ?";
+4;
+5;

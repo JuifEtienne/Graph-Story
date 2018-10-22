@@ -1,0 +1,5 @@
+1;
+"Et alors ? Ça ne veut pas dire qu'on doit arreter de travailler ensemble ! J'aime ca, moi.";
+1;
+60 - "En fait, faut que je t'avoue un truc, je suis ton ange gardien. Tu m'as cree car tu manquais de confiance en toi et maintenant tu n'as plus besoin de moi, ahah !";
+60;

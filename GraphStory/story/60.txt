@@ -1,0 +1,5 @@
+1;
+"Ahah, c'est vraiment n'importe quoi. Tu n'as pas mieux comme excuse ?";
+1;
+61 - "...";
+61;

@@ -1,0 +1,7 @@
+1;
+"Pff, tu pourrais faire des efforts pour une fois, c'est toujours moi qui me colle tout le boulot !"
+ declare-t-elle en me regardant. Je maintiens le contact visuel avec elle en esperant la faire craquer et...
+ elle craque et recupere le sac. On est trop fort.;
+1;
+9 - "Skells, nous voila !";
+9;

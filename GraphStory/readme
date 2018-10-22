@@ -1,0 +1,22 @@
+Hello ! It's a little document to explain what I have done in relation to the criteria for evaluating our projects.
+
+
+Object oriented design => I created 3 classes for my story. 2 for the nodes and one for my graph.
+
+Polymorphism => I created a method PrintNode which will print different thing if the Node is a basic Node or a QuestionNode.
+                For that, I used an heterogeneous container in my class Graph !
+
+(Overloaded operators => I overloaded "[]" for my Graph and Nodes at the beginning but I change things and I don't use it now.)
+
+Exceptions => I use exceptions to check if the input of the user is usefull or not. (file Graph.cpp)
+
+STL containers (with use of iterators) and STL algorithms (e.g., std::sort, std::find)
+            => I use vector for the STL containers and I use iterators and algorithms with std::find.
+            Find help me to see if the input of the user is usefull or not. (file Node.cpp)
+
+Project fulfilled?
+            => It's working !
+
+
+I'm sorry but for the projects I didn't find how to use Template of lambda expressions.
+I didn't need them to fulfill the project...

@@ -1,0 +1,9 @@
+1;
+"Je gere" murmure-t-elle. Elle court en regardant le bandit droit dans les yeux puis, a quelques pas de lui, elle se
+recouvre completement de fumee, donnant l'impression qu'un gros nuage fonce sur l'homme. Le nuage se separe en plusieurs
+morceaux qui partent tourner autour du bandit. C'est la panique pour lui, il tranche un premier nuage, rien. Il en tranche un deuxieme,
+rien. Et d'un coup, Climp apparait derriere lui et l'etrangle ! Elle a reussi ! La mission est accomplie ! Je cours vers
+elle, et elle est en train de reprendre son souffle. "Alors, c'est qui la meilleure ?";
+1;
+54 - "C'est nous !";
+54;

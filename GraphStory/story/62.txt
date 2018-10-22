@@ -1,0 +1,5 @@
+1;
+"Sam, je vais me retourner et on sait tres bien que tu seras derriere moi. Attention, je me retourne... maintenant !";
+1;
+63 - "...";
+63;

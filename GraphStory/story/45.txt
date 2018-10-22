@@ -1,0 +1,5 @@
+1;
+"Tu vas voir, je vais etre incapable de faire les choses bien !";
+1;
+46 - "Et le sac de tout a l'heure, c'etait pas un succes ca ?";
+46;

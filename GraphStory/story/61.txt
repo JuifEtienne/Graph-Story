@@ -1,0 +1,5 @@
+1;
+"Ah bah bravo, maintenant tu te tais pour me faire croire que tu n'es plus la.";
+1;
+62 - "...";
+62;

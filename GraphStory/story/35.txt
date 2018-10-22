@@ -1,0 +1,8 @@
+1;
+On avait atteint la fameuse falaise qui, un peu plus loin, coupe Skells en deux. Elle est reputee pour posseder
+ plusieurs renfoncements et on va en profiter. Le temps passe... tout semble plus calme. Tout sauf Climb...;
+2;
+36 - "Ca va aller ?";
+37 - "Ouf, on a pu les semer.";
+36;
+37;

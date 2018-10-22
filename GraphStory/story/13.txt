@@ -1,0 +1,5 @@
+1;
+"Du coup, on pourrait en profiter pour apporter ce sac a notre commanditaire, non ?";
+1;
+16 - "Ah oui, vu comme ca.";
+16;

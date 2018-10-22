@@ -1,0 +1,7 @@
+1;
+"Oui, c'est a la taverne des quais. On va pouvoir y etre rapidement.";
+2;
+11 - "Ok, on y va.";
+12 - "Tu veux qu'on fasse autre chose avant ?";
+11;
+12;

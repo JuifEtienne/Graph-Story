@@ -1,0 +1,7 @@
+1;
+Bon, je vous passe les details longs et ininteressants mais notre commanditaire nous expliqua qu'on pouvait retrouver
+ les bandits dans une cabane dans la foret a l'ouest de Skells et que cette mission ne devrait pas poser trop de
+ problemes. ;
+1;
+23 - "Eh Climb... A tous les coups tu veux y aller maintenant ?";
+23;

@@ -1,0 +1,5 @@
+1;
+"Oui" dit-elle en hochant la tete. J'aime quand elle hoche la tete.;
+1;
+50 - "Tres bien ! Dans ce cas je te laisse gerer les choses, bon courage !";
+50;

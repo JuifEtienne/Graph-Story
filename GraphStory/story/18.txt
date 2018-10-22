@@ -1,0 +1,12 @@
+1;
+"Et l'argent ?" dit-elle. Le commanditaire passe une main dans son impermeable, il fouille un peu
+ (ou il se gratte mais je ne vais pas m'avancer la-dessus) et il sort finalement une petite bourse qu'il lance a Climb.
+ On commence a faire demi-tour et soudain l'homme se leve et nous lance "Attendez ! J'ai encore une mission pour vous !
+ Et je vous paye deux fois plus pour celle-la".;
+3;
+19 - Ca pue.;
+20 - Ca pue...;
+21 - Ca pue ?;
+19;
+20;
+21;

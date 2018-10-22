@@ -1,0 +1,5 @@
+1;
+"Je... je ne sais pas. Je te laisse gerer !";
+1;
+34 - "Allez, on va a droite !";
+34;

@@ -1,0 +1,5 @@
+1;
+"Si...";
+1;
+47 - "Et travailler avec quelqu'un d'aussi incroyable que moi, ce n'est pas une reussite ?";
+47;

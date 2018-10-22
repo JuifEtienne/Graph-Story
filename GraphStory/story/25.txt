@@ -1,0 +1,9 @@
+1;
+"Okay, super. Tu as un plan d'attaque ?" me demande Climb.;
+3;
+26 - "On peut essayer de contourner";
+27 - "On peut le faire de face, avec ton pouvoir ca passe.";
+28 - "C'est toi qui te bats, tu pourrais trouver un plan par toi meme !";
+26;
+27;
+28;

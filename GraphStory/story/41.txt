@@ -1,0 +1,7 @@
+1;
+"Non, je vais encore tout faire rater ! La, ils vont pouvoir s'enfuir ou ramener du monde ! Imagine s'ils te blessent !";
+2;
+42 - "Et bien justement ! Il faut qu'on contre-attaque maintenant !";
+43 - "Plus de monde contre nous ? Pfeuh ! On gere ! On est trop fort.";
+42;
+43;

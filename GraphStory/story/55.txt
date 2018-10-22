@@ -1,0 +1,6 @@
+1;
+"Ahah, merci Sam." Tout devient d'un coup plus calme et toute la fumee de Climb est en train de disparaitre. Climb se
+ baisse et recupere l'epee et le bouclier. On peut rentrer a Skells maintenant.;
+1;
+56 - <Une heure plus tard, sur la route>;
+56;

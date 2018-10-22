@@ -1,0 +1,14 @@
+1;
+"Cretin." Et la voila qui sort de la grotte. De loin, je la suis, je ne veux pas manquer ça. Et voila. C'est fini...
+ Ahah, je plaisante, vous m'en voudriez si je ne vous racontais pas le combat final, si ? Climb se cacha dans un nuage
+ de fumee. Le defaut de cette technique, c'est que dans une foret ou il n'y a pas de fumee, on devine facilement
+ votre position. Cepandant l'avantage... c'est qu'on ne devine pas facilement votre position quand vous etes dans la fumee, ahah. Elle arrive a repandre
+ de la fumee sur une assez grande zone pour pouvoir perturber son adversaire. C'est ainsi qu'elle eu les
+ deux premiers bandits... Elle arriva juste derriere eux et les etrangla. Amis bandits, voila une astuce : ne vous
+ separez pas. Le troisieme bandit etait sur ses gardes et compliqua la tache. Quand Climb arriva derriere lui, il se
+ retourna et lui colla une droite. Elle se releva et se mit en position de combat, ils echangerent quelque coup jusqu'a
+ ce que Climb utilse son pouvoir pour lui enfumer le visage et pour enchainer avec un uppercut... Ce qui nous amene a maintenant,
+ on est en train de chercher le dernier bandit, celui avec l'epee et le bouclier.;
+1;
+52 - "Ah ! Le voi...";
+52;

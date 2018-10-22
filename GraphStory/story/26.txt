@@ -1,0 +1,9 @@
+1;
+Elle hoche la tete et part a droite, en essayant de se cacher vers d'autres buissons. Bien evidemment, je la suis.
+ Heureusement pour nous, les bandits sont trop occupes dans leur base et on approche assez facilement. Il n'y a pas de
+ porte derriere leur cabane mais il y a une fenetre. Climb s'en approche et pose sa main sur le bord. Elle utilise son
+ pouvoir, de la fumee apparait autour de son poignee et se dirige vers la fenetre. Ce mini-nuage traverse l'encadrement
+ et enfume les bandits. "C'est parti !" crie Climb tout en prenant de l'elan pour rentrer dans la cabane par la fenetre.;
+1;
+30 - Et la, c'est le drame.;
+30;

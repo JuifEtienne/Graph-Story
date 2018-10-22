@@ -1,0 +1,6 @@
+1;
+"Un groupe de bandits m'a recemment attaque, j'ai besoin que vous leur donniez une bonne leçon ! Et vous pourrez
+ aussi recuperer leurs affaires..." dit-il. Ca me semble etre une mission banale.;
+1;
+22 - "Et vous avez plus d'infos ?";
+22;

@@ -1,0 +1,9 @@
+1;
+Je ne l'avais pas remarque quand on etait au niveau du buisson mais en fait... ils sont 4. Le dernier bandit n'etait
+ pas dans la cabane mais il faisait le tour, pour surveiller que des gens ne viennent pas leur causer des problemes,
+ ce qui est exactement ce que l'on voulait faire. Il crie un grand coup "DES INTRUS !" et d'un coup, Climb se retrouve
+ face a 4 bandits. Ce qui, je trouve, n'est pas une situation facilement gerable. Climb est paniquee, elle ne bouge plus
+ et ne s'attendait pas du tout a se retrouver dans cette situation. Deux bandits s'approchent en courant d'elle.;
+1;
+31 - "FAUT QU'ON SE CASSE CLIMB !";
+31;

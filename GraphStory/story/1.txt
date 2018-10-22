@@ -1,0 +1,12 @@
+1;
+Un homme se trouve dans une foret de sapins. Devant lui se trouve l'entree d'une petite mine.
+ Cet homme vous parle : Hey. Je m'appelle Sam et, ensemble, nous allons vivre une petite histoire.
+ Mais avant tout, pour bien commencer, il faut que je vous explique un peu ou l'on est.
+ Je vous souhaite donc la bienvenue dans notre fantastique pays, Valas.
+ Il est fantastique par bien des manieres mais c'est ses habitants qui lui donnent tout son piquant.
+ On peut retrouver des nains, des ogres, et des races que tu ne pouvais meme pas imaginer...
+ Et il y a bien sur les humains... Mais meme parm...;
+1;
+2 - Un grand nuage de fumee sort de la mine;
+2;
+

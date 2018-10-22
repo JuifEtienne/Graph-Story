@@ -1,0 +1,6 @@
+1;
+Elle hoche la tete et utilise son pouvoir pour entourer la cabane de fumee. Comme ça ils ne vont pas nous remarquer.
+ On approche de la cabane et on arrive jusqu'a la porte.;
+1;
+30 - Et la, c'est le drame.;
+30;

@@ -1,0 +1,6 @@
+1;
+"Un groupe de bandits a recemment vole l'epee de ma famille, j'ai besoin que vous me le recupereriez !" dit-il.
+ Ca semble etre une mission banale.;
+1;
+22 - "Et vous avez plus d'infos ?";
+22;

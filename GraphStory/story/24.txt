@@ -1,0 +1,7 @@
+1;
+Je n'aime pas me cacher dans des buissons. Franchement c'est nul, c'est petit, on est oblige d'etre accroupi et on ne
+ sait meme pas ce qui a traine a cote quelques heures avant ! Mais bon, c'est notre meilleure cachette actuellement.
+ La cabane des bandits est devant nous, il y a de la lumiere et on peut remarquer des mouvements.;
+1;
+25 - "Je vois trois humains. Deux hommes et une femme. Un d'eux semble bien equiper, il a une epee et un bouclier, tout ce qui nous interesse.";
+25;

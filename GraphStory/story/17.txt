@@ -1,0 +1,9 @@
+1;
+Nous y entrons. Pour une fin d'apres-midi, il y a peu de monde a l'interieur. Il y a quelques nains au comptoir, des
+ hommes autour de plusieurs tables qui sont en train d'echanger des recits maritimes et enfin, vers la cheminee, notre homme. Il porte
+ encore un grand impermeable marron et il cache son visage avec sa grande capuche. Au moins il m'evite de devoir faire
+ une description physique, ahah. On le rejoint. A quelques pas de lui, Climb jette le sac sur sa table.
+ "Mission accomplie" declare-t-elle. L'homme recupere le sac et verifie son contenu. Il hoche la tete.;
+1;
+18 - "Demande lui pour l'argent !";
+18;

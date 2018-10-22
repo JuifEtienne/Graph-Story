@@ -1,0 +1,9 @@
+1;
+"Comme quoi ?";
+3;
+13 - "On pourrait aller boire un coup dans une taverne ?";
+14 - "On pourrait prendre un peu de repos à l'auberge.";
+15 - "Je sais pas, on pourrait retourner frapper des mechants.";
+13;
+14;
+15;

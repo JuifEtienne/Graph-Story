@@ -1,0 +1,6 @@
+1;
+"Oui, je vais y arriver !". Quelques secondes de silence se font sentir. Elle me regarde.
+ "Attend, tu me dis qu'a deux on gere tout et tu ne viens pas ?";
+1;
+51 - "Heu... Oui, faut refaire tes preuves maintenant, haha";
+51;

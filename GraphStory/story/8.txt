@@ -1,0 +1,8 @@
+1;
+"Ouais... Bon..." elle prit une pause le temps de trouver quoi repondre. Elle abandonna assez vite et me dit
+ "Allez, pas le temps de parler, faut qu'on aille à Skells apporter ce sac, on nous attend...".
+ On sait très bien qu'on a tout notre temps pour parler, c'est juste qu'elle est vexee et ne trouve aucune repartie,
+ ahah !;
+1;
+9 - "Skells, nous voila !";
+9;

@@ -1,0 +1,5 @@
+1;
+"Haha, je pense qu'on peut dire ça.";
+1;
+58 - "Bon ben, dans ce cas, tu ne vas plus avoir besoin de moi, hein ?";
+58;

@@ -1,0 +1,7 @@
+1;
+"Il est la !" dit Climb tout en me coupant. "J'y vais." rajoute-t-elle tout en produisant son fameux nuage de fumee.
+ Elle part a sa rencontre... le bandit est maintenant en position de garde a cause de la fumee mais avec un peu de chance
+ elle aura le temps de l'appro... Oh... Non ! Il la voit ! ;
+1;
+53 - "CLIMB ATTENT...";
+53;

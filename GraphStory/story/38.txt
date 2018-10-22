@@ -1,0 +1,5 @@
+1;
+"On les avait... on pouvait les avoir ! Et j'ai tout fait foirer !";
+1;
+39 - "C'est ma faute. J'aurais du le voir...";
+39;

@@ -1,0 +1,7 @@
+1;
+"Genre, tu as envie de prendre des vacances, tu as trop envie de rester faire des missions avec moi ! Allez, quel est le plan ?";
+2;
+26 - "On peut essayer de contourner";
+27 - "On peut le faire de face, avec ton pouvoir ça passe.";
+26;
+27;

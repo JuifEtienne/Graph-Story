@@ -1,0 +1,11 @@
+1;
+Et nous voila hors de la foret... On se retrouve face a face avec la grande ville de Skells et la magnifique falaise
+ qui la traverse. Cette ville est sur deux niveaux, la partie basse contient tous les quais mais aussi les tavernes et
+ les magasins, l'autre partie de la ville est en haut de la falaise et porte la base des Hunter et les differents
+ centres de gestion de la ville. Pour atteindre la taverne ou nous attend notre commanditaire, on traverse plusieurs
+ rues marchandes de la ville basse. On passe devant plusieurs vendeurs mais aussi des forgerons, des
+ charpentiers et meme des armuriers... Tout ce qu'il faut pour que des aventuriers puissent partir a l'aventure a pied
+ ou en bateau. Ah, ca y est.;
+1;
+17 - "Je vois la taverne !";
+17;

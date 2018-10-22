@@ -1,0 +1,6 @@
+1;
+"Vas-y seul, je ne vais servir a rien !". Ohlala... comme si je servais a quelque chose, moi !;
+1;
+44 - "Non. C'est a toi de le faire ! Tu penses avoir rater et bien... a toi de rattraper le coup ! Et tu vas y arriver.
+ Tu sais tres bien que c'est de la rigolade pour toi !";
+44;

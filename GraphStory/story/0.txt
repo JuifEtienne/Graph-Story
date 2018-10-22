@@ -1,0 +1,4 @@
+4;
+Pour avancer vers un nouveau chapitre de l'histoire, ecrivez son numero dans la console de commande.
+ Le numero du chapitre est vers le message qui l'y conduit. Pour continuer, ecrivez 1;
+1;

@@ -1,0 +1,5 @@
+1;
+"Mais je te demande juste ton avis. En plus a quoi tu me servirais si tu ne me disais meme pas quoi faire ?";
+1;
+29 - "Justement, ça serait pas mal si tu arrivais a te passer de moi. Je pourrais prendre des vacances.";
+29;

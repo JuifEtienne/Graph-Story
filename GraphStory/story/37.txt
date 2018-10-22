@@ -1,0 +1,7 @@
+1;
+"Oui..." dit-elle en hochant la tete. J'ai deja dit que je n'aimais pas quand elle hoche la tete ?;
+2;
+39 - "C'est ma faute. J'aurais du le voir...";
+40 - "Hey, faut sourir ! C'est une petite victoire !";
+39;
+40;

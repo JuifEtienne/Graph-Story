@@ -1,0 +1,7 @@
+1;
+"Non...". Finalement, je prefere quand elle hoche la tete.;
+2;
+38 - "Pourquoi ?";
+39 - "C'est ma faute. J'aurais du le voir...";
+38;
+39;

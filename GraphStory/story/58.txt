@@ -1,0 +1,5 @@
+1;
+"Tu reves, je te signale qu'on se complete, moi je me bats et toi tu me conseilles !";
+1;
+59 - "Tu n'as plus vraiment besoin de mes conseils, tu peux te debrouiller par toi-meme !";
+59;
